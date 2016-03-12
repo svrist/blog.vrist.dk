@@ -16,7 +16,7 @@ build:
         flags: --buildDrafts=true
 deploy:
   steps:
-    - install-package:
+    - install-packages:
         packages: lftp
     - script:
         name: sftp files to host
