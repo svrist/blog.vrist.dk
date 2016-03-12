@@ -1,13 +1,13 @@
 box: google/golang
 build:
   steps:
+    - add-to-known_hosts:
+        hostname: github.com
     - install-packages:
         packages: mercurial
     - script:
         name: initialize git submodules
         code: |
-            ssh -vvv github@github.com
-            ssh-keyscan -t rsa github.com >> ~/.ssh/known_hosts
             cd $WERCKER_SOURCE_DIR
             git submodule update --init --recursive
     - arjen/hugo-build:
