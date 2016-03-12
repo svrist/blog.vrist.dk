@@ -3,6 +3,11 @@ build:
   steps:
     - install-packages:
         packages: mercurial
+    - script:
+        name: initialize git submodules
+        code: |
+            cd ..
+            git submodule update --init --recursive
     - arjen/hugo-build:
         version: "HEAD"
         theme: hugo-uno
