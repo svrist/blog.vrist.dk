@@ -6,6 +6,7 @@ build:
     - script:
         name: initialize git submodules
         code: |
+            ssh -vvv github@github.com
             ssh-keyscan -t rsa github.com >> ~/.ssh/known_hosts
             cd $WERCKER_SOURCE_DIR
             git submodule update --init --recursive
