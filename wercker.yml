@@ -14,3 +14,12 @@ build:
         version: "HEAD"
         theme: hugo-uno
         flags: --buildDrafts=true
+deploy:
+  steps:
+    - install-package:
+        packages: lftp
+    - script:
+        name: sftp files to host
+        code: |
+            cd $WERCKER_SOURCE_DIR
+            lftp -c "open sftp://$USER:$SSHPASS@$HOST && mirror -R public/ $DIR"
