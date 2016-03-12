@@ -1,6 +1,8 @@
 box: google/golang
 build:
   steps:
+    - install-packages:
+        packages: mercurial
     - arjen/hugo-build:
         version: "HEAD"
         theme: hugo-uno
