@@ -1,0 +1,18 @@
+{{ $suffix := or (.Get "suffix") "jpg" }}
+{{ $size := or (.Get "size") "150x150" }}
+{{ with .Get "file" }}
+<dl class="gallery-item">
+    <dt class="gallery-icon landscape">
+    <a href="PREFIX/{{ . }}.{{ $suffix }}" data-lightbox="set1" 
+        data-title="{{ $.Get "caption" }}" >
+        <img 
+          src="PREFIX/{{ . }}-{{ $size }}.{{ $suffix }}" 
+          itemprop="thumbnail" 
+          alt="{{ $.Get "caption" }}" /> 
+    </a>
+    <dt>
+    <dd class='wp-caption-text gallery-caption'>
+    {{ $.Get "caption" }}
+    </dd>
+</dl>
+{{ end }}

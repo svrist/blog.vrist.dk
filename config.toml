@@ -1,0 +1,23 @@
+baseurl = "https://blog.vrist.dk"
+languageCode = "da-dk"
+title = "Søren Bjergaard Vrist"
+canonifyurls = true
+
+[indexes]
+   category = "categories"
+   tag = "tags"
+
+[taxonomies]
+   tag = "tags"
+   category = "categories"
+   series = "series"
+
+[params]
+    AuthorName = "Søren"
+    github = "svrist"
+    twitter = "svrist"
+    email = "s@vrist.dk"
+    linkedin = "svrist"
+    muut = "svrist"
+    description = "Code, Triathlon, Family"
+    cover = "/svimstart-crop.png"

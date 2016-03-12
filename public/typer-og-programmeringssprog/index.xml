@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Typer-og-programmeringssprogs on Søren Bjergaard Vrist</title>
+    <link>https://blog.vrist.dk/typer-og-programmeringssprog/</link>
+    <description>Recent content in Typer-og-programmeringssprogs on Søren Bjergaard Vrist</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>da-dk</language>
+    <lastBuildDate>Tue, 06 Nov 2007 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://blog.vrist.dk/typer-og-programmeringssprog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Typer og programmeringssprog</title>
+      <link>https://blog.vrist.dk/typer-og-programmeringssprog/</link>
+      <pubDate>Tue, 06 Nov 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.vrist.dk/typer-og-programmeringssprog/</guid>
+      <description>&lt;p&gt;Kursushjemmeside (Ihvertfald mens det stod: på):&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.diku.dk/undervisning/2005v/202/&#34;&gt;http://www.diku.dk/undervisning/2005v/202/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Indhold set fra min side:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Et rigtig spændende kursus, om en af de mere teoretiske sider af Datalogi. Om hvordan man kan bruge typer til sige noget om forskellige egenskaber ved programmeringssprog, og hvad der ligger bag de smarte og gennemprøvede features der er i programmeringssprog som man sjældent tænker over.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Hvem har f.eks. forestillet sig at man kan garantere at et program terminere når blot det er veltypet?&lt;/li&gt;
+&lt;li&gt;At man med typer kan sikre at allokering og deallokering af værdier foregår uden fejl?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;osv osv.&lt;/p&gt;
+
+&lt;p&gt;Derudover lærer vi mange af de grundlæggende ting som bliver brugt igen og igen i mere advanceret litteratur. F.eks. polymorfi, inferens af typer (og andet), rekursion og dens påvirkninger af programmeringssprog.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sværhed:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Det har indtil videre været en stor udfordring for mig at følge kurset. Jeg har skullet arbejde rigtig rigtig meget for at bare få lavet det absolut nødvendige i opgaverne.&lt;/p&gt;
+
+&lt;p&gt;Jeg har brugt lang tid på at lave [mit seminar om Region-based Memory Managment][1] og det var absolut ikke en prangende opvisning&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Karakter:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;8&lt;/p&gt;
+
+&lt;p&gt;[1]: &lt;a href=&#34;http://seet.dk/~seet/pres.pdf&#34;&gt;http://seet.dk/~seet/pres.pdf&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,5 @@
+{{ $columns := or (.Get "columns") "2" }}
+<div class="gallery gallery-columns-{{$columns}} {{.Get "class"}}" itemscope itemtype="http://schema.org/ImageGallery">
+    {{ replace .Inner "PREFIX" (.Get "prefix") | safeHTML }}
+    <br style="clear: both" />
+</div>
