@@ -1,10 +1,10 @@
 box: google/golang
 build:
   steps:
+    - install-packages:
+        packages: mercurial openssh-client
     - add-to-known_hosts:
         hostname: github.com
-    - install-packages:
-        packages: mercurial
     - script:
         name: initialize git submodules
         code: |
