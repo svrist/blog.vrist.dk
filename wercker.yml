@@ -22,5 +22,7 @@ deploy:
         name: sftp files to host
         code: |
             cd $WERCKER_SOURCE_DIR
-            echo "open sftp://$USER:$SSHPASS@$HOST && mirror -R public/ $DIR"
-            /usr/bin/lftp -c "open sftp://$USER:$SSHPASS@$HOST && mirror -R public/ $DIR"
+            echo "open sftp://$USER:$SSHPASS@$HOST" > cmds
+            echo "ls" >> cmds
+            lftp  -v=3 -f cmds
+            /usr/bin/lftp -v=3 -c "open sftp://$USER:$SSHPASS@$HOST && mirror -R public/ $DIR"
