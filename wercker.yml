@@ -24,5 +24,7 @@ deploy:
             cd $WERCKER_SOURCE_DIR
             echo "open sftp://$USER:$SSHPASS@$HOST" > cmds
             echo "ls" >> cmds
+            which lftp
+            cat cmds
             lftp  -v=3 -f cmds
             /usr/bin/lftp -v=3 -c "open sftp://$USER:$SSHPASS@$HOST && mirror -R public/ $DIR"
