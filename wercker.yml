@@ -22,7 +22,7 @@ deploy:
         name: sftp files to host
         code: |
             cd $WERCKER_SOURCE_DIR
-            echo "curl -u $USER:SSHPASS ftp://$HOST/"
-            curl -u $USER:SSHPASS ftp://$HOST/
+            echo "curl -u $USER:$SSHPASS ftp://$HOST/"
+            curl -u $USER:$SSHPASS ftp://$HOST/
             find public -type f
             find public -type f -exec curl -u $USER:$SSHPASS --ftp-create-dirs -T {} ftp://$HOST/{} \;
