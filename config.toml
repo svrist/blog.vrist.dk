@@ -1,6 +1,6 @@
 baseurl = "http://vrist.dk/hugo"
 languageCode = "da-dk"
-title = "Søren Bjergaard Vrist"
+title = "Søren Bjerregaard Vrist"
 canonifyurls = true
 
 [indexes]
