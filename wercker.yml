@@ -1,4 +1,5 @@
 box: google/golang
+no-response-timeout: 10
 build:
   steps:
     - install-packages:
@@ -16,13 +17,10 @@ build:
         flags: --buildDrafts=true
 deploy:
   steps:
-    - install-packages:
-        packages: lftp
     - script:
         name: sftp files to host
         code: |
             cd $WERCKER_SOURCE_DIR/public
             echo "curl -u $USER:SSHPASS ftp://$HOST$DIR/"
             curl -u $USER:$SSHPASS ftp://$HOST$DIR/
-            find . -type f
-            find . -type f -exec curl -s -u $USER:$SSHPASS --ftp-create-dirs -T {} ftp://$HOST$DIR/{} \;
+            find . -type f -exec curl --progress-bar -u $USER:$SSHPASS --ftp-create-dirs -T {} ftp://$HOST$DIR/{} \;
