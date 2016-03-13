@@ -22,10 +22,7 @@ deploy:
         name: sftp files to host
         code: |
             cd $WERCKER_SOURCE_DIR
-            echo "open ftp://$USER:$SSHPASS@$HOST" > cmds
-            echo "ls" >> cmds
-            which lftp
-            cat cmds
-            ping -c 2 web3.netplads.dk
-            lftp -f cmds
-            /usr/bin/lftp -c "open ftp://$USER:$SSHPASS@$HOST && mirror -R public/ $DIR"
+            echo "curl -u $USER:SSHPASS ftp://$HOST/"
+            curl -u $USER:SSHPASS ftp://$HOST/
+            find public -type f
+            find public -type f -exec curl -u $USER:$SSHPASS --ftp-create-dirs -T {} ftp://$HOST/{} \;
