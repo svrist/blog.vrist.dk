@@ -26,6 +26,6 @@ deploy:
             echo "ls" >> cmds
             which lftp
             cat cmds
-            ping -n2 web3.netplads.dk
+            ping -c 2 web3.netplads.dk
             lftp -f cmds
             /usr/bin/lftp -c "open ftp://$USER:$SSHPASS@$HOST && mirror -R public/ $DIR"
