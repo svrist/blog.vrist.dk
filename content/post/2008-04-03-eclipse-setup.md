@@ -25,7 +25,7 @@ When using the codeformatter you really can benefit from &#8220;<a title="Save a
 
 Good stuff!
 
-For my <a title="On of my posts about sparetime project" href="http://svrist.wordpress.com/2008/02/19/toying-around/" target="_blank">sparetime</a> <a title="Sparetime project 2" href="http://svrist.wordpress.com/2008/02/20/focus-on-the-technology/" target="_blank">project</a> I&#8217;m currently exploring other plugins:
+For my <a title="On of my posts about sparetime project" href="http://blog.vrist.dk/2008/02/19/toying-around/" target="_blank">sparetime</a> <a title="Sparetime project 2" href="http://blog.vrist.dk/2008/02/20/focus-on-the-technology/" target="_blank">project</a> I&#8217;m currently exploring other plugins:
 
   * Mercurial eclipse plugin: <a title="Eclipse hg plugin" href="http://www.vectrace.com/mercurialeclipse" target="_blank">http://www.vectrace.com/mercurialeclipse</a> (Update-site: http://www.vectrace.com/eclipse-update/)
   * <a title="New plugin mail" href="http://article.gmane.org/gmane.comp.lang.scala/11181" target="_blank">new Scala plugin</a> : http://scala.sygneca.com/tools/eclipse

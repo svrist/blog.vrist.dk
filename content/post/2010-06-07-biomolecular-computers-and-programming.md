@@ -10,7 +10,7 @@ categories:
   - English
 
 ---
-I have recently handed in a report as a part of my masters/candidate in <a href="http://www.diku.dk" target="_blank">Computer Science at University of Copenhagen</a> &#8211; _&#8220;<a title="BlobVis visualization tool" href="http://blobvis.appspot.com" target="_blank">Visualizing blobs and computation in a biomolecular computation model</a>&#8220;._ It sounds very fancy and I would like to introduce the subject and my report here in hopefully a less dry way than in the report it self. <span style="color: #808080;">(This post will be in a &#8220;anecdotal&#8221; style and will not contain citations for all the facts. The report above should be up to academic par on citations)</span>
+I have recently handed in a report as a part of my masters/candidate in <a href="http://www.diku.dk" target="_blank">Computer Science at University of Copenhagen</a> &#8211; _&#8220;<a title="BlobVis visualization tool" href="http://blobvis-1238.appspot.com" target="_blank">Visualizing blobs and computation in a biomolecular computation model</a>&#8220;._ It sounds very fancy and I would like to introduce the subject and my report here in hopefully a less dry way than in the report it self. <span style="color: #808080;">(This post will be in a &#8220;anecdotal&#8221; style and will not contain citations for all the facts. The report above should be up to academic par on citations)</span>
 
 ## Biomolecular computers and computation
 
@@ -30,21 +30,21 @@ The authors, <a title="Neil Jones page" href="http://www.diku.dk/hjemmesider/ans
 
 Lots of interesting computational properties was proven but as a programmer there is no way to write a program as we know it.
 
-Based on that &#8220;hole&#8221; a machine language was developed and described in the article which might theoretically could be used on a biocomputer. The models was dubbed &#8220;The blob programming model&#8221; and the article can be found at <a href="http://blobvis.appspot.com/blob" target="_blank">http://blobvis.appspot.com/blob</a>
+Based on that &#8220;hole&#8221; a machine language was developed and described in the article which might theoretically could be used on a biocomputer. The models was dubbed &#8220;The blob programming model&#8221; and the article can be found at <a href="http://blobvis-1238.appspot.com/blob" target="_blank">http://blobvis-1238.appspot.com/blob</a>
 
 ## My Project &#8211; Visualizations of Blob programs
 
 Based on this article I defined a project for doing a literature review of biocomputing literature as well as visualization theory applicable to visualization of blob programs. Normal progrogramming visualizations exists and have been used for many years, but in this case there was a special angle attached to the visualizations. The blob model has a potential physical analog as it might be possible to create a &#8220;biomolecular computer&#8221; that can execute the instructions and as the instructions is formed to be somewhat like an abstract molecule or similar a visualization of the blob instruction set could/should reveal interesting properties of blob programs with regards to their physical presence.
 
 <div style="width: 260px" class="wp-caption alignleft">
-  <a href="http://blobvis.appspot.com/screenshots"><img title="A blob program" src="http://blobvis.appspot.com/static/thumb_largedata-play.jpg" alt="" width="250" height="243" /></a>
+  <a href="http://blobvis-1238.appspot.com/screenshots"><img title="A blob program" src="http://blobvis-1238.appspot.com/static/thumb_largedata-play.jpg" alt="" width="250" height="243" /></a>
   
   <p class="wp-caption-text">
     A program in the BlobVis tool
   </p>
 </div>
 
-At <a title="Blobvis site" href="http://blobvis.appspot.com" target="_self">http://blobvis.appspot.com</a> my report is available for download as well as the BlobVis visualization tool I developed. From there you can play around with a few simple &#8220;Blob Programs&#8221;, for example a &#8220;list append'&#8221; program and see a video of a program executing in BlobVis. As I focused on physical properties the tool uses a physical based algorithm for layouting the blob programs(Via <a href="http://prefuse.org" target="_blank">prefuse</a>) which allows you to drag around programs and data in a way that looks like it is immersed in water or similar. That gives an interesting effect and is fun to watch.
+At <a title="Blobvis site" href="http://blobvis-1238.appspot.com" target="_self">http://blobvis-1238.appspot.com</a> my report is available for download as well as the BlobVis visualization tool I developed. From there you can play around with a few simple &#8220;Blob Programs&#8221;, for example a &#8220;list append'&#8221; program and see a video of a program executing in BlobVis. As I focused on physical properties the tool uses a physical based algorithm for layouting the blob programs(Via <a href="http://prefuse.org" target="_blank">prefuse</a>) which allows you to drag around programs and data in a way that looks like it is immersed in water or similar. That gives an interesting effect and is fun to watch.
 
  [1]: http://en.wikipedia.org/wiki/Biomolecular_computing
  [2]: http://en.wikipedia.org/wiki/DNA "DNA"
