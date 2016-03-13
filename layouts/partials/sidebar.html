@@ -12,7 +12,7 @@
         {{ end }}
         {{ else }}
             panel-cover panel-cover--collapsed
-        {{ end }}" {{ if .Site.Params.cover }} style="background-image: url({{ .Site.Params.cover }})" {{ end }}>
+            {{ end }}" {{ if .Site.Params.cover }} style="background-image: url({{ .Site.BaseURL }}/{{ .Site.Params.cover }})" {{ end }}>
     <div class="panel-main">
         <div class="panel-main__inner panel-inverted">
             <div class="panel-main__content"> {{ if .Site.Params.logo }}
