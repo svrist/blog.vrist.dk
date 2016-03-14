@@ -1,4 +1,4 @@
-baseurl = "http://vrist.dk/hugo"
+baseurl = "https://blog.vrist.dk"
 languageCode = "da-dk"
 title = "Søren Bjerregaard Vrist"
 canonifyurls = true
