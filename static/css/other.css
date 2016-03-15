@@ -1,0 +1,21 @@
+.single aside .section {
+  margin-bottom: 2rem;
+}
+
+.single .tag {
+  display: inline-block;
+  font-size: .8rem;
+  color:#999;
+  padding:2px 7px;
+  border:1px solid #eee;
+  border-bottom:2px solid #eee;
+  margin-right:5px;
+  border-radius:50px;
+  text-decoration:none;
+  margin-bottom:5px;
+}
+
+.single .tag:hover {
+  color: #333;
+}
+
