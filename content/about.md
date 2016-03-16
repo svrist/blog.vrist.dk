@@ -33,7 +33,7 @@ Resenstad 5km nord west of Struer in west Jutland.
 
 Student 2002 of <a title="Struer Gymnasiums Website"
 href="http://www.Struer-gym.dk" target="_blank">Struer Gymnasium og HF</a>. 9.7
-average <a title="Omregning" href="http://www.uvm.dk/nyskala/omr.htm"
+average <a title="Omregning" href="http://www.hvordan.dk/hvordan-er-den-nye-karakterskala-7-trin"
 target="_blank">(Gammel skala)</a>
 
 
