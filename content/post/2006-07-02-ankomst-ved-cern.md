@@ -1,7 +1,7 @@
 ---
 title: Ankomst ved CERN
 author: svrist
-layout: post
+
 date: 2006-07-02
 url: /2006/07/02/ankomst-ved-cern/
 dsq_thread_id:

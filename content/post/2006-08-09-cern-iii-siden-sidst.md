@@ -1,7 +1,7 @@
 ---
 title: CERN – III – Siden sidst
 author: svrist
-layout: post
+
 date: 2006-08-09
 url: /2006/08/09/cern-iii-siden-sidst/
 dsq_thread_id:

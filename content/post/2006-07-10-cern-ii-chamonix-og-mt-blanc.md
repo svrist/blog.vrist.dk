@@ -1,7 +1,7 @@
 ---
 title: 'CERN – II  – Chamonix og Mt. Blanc'
 author: svrist
-layout: post
+
 date: 2006-07-10
 url: /2006/07/10/cern-ii-chamonix-og-mt-blanc/
 dsq_thread_id:

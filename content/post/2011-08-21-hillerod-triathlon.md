@@ -1,7 +1,7 @@
 ---
 title: Hillerød triathlon
 author: svrist
-layout: post
+
 date: 2011-08-21
 url: /2011/08/21/hillerod-triathlon/
 dsq_thread_id:

@@ -1,7 +1,7 @@
 ---
 title: Listings definition for the Scala programming language
 author: svrist
-layout: post
+
 date: 2010-09-29
 url: /2010/09/29/listings-definition-for-the-scala-programming-language/
 dsq_thread_id:

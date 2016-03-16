@@ -1,9 +1,9 @@
 ---
 title: CPH:Triathlon – Race report
 author: svrist
-layout: post
 date: 2015-02-20
-url: /2015/02/20/cphtriathlon-race-report/
+aliases:
+ - /2015/02/20/cphtriathlon-race-report/
 lightbox: True
 dsq_thread_id:
   - 3532183557

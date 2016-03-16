@@ -1,7 +1,7 @@
 ---
 title: My favorite podcasts
 author: svrist
-layout: post
+
 date: 2011-12-14
 url: /2011/12/14/my-favorite-podcasts/
 dsq_thread_id:

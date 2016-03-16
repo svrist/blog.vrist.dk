@@ -1,7 +1,7 @@
 ---
 title: Biomolecular computers and programming
 author: svrist
-layout: post
+
 date: 2010-06-07
 url: /2010/06/07/biomolecular-computers-and-programming/
 dsq_thread_id:

@@ -1,7 +1,7 @@
 ---
 title: Reading up on “Dynamic Graph Layout”
 author: svrist
-layout: post
+
 date: 2010-04-15
 url: /2010/04/15/reading-up-on-dynamic-graph-layout/
 dsq_thread_id:

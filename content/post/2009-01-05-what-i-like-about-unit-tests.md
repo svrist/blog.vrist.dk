@@ -1,7 +1,7 @@
 ---
 title: What I like about Unit Tests
 author: svrist
-layout: post
+
 date: 2009-01-05
 url: /2009/01/05/what-i-like-about-unit-tests/
 dsq_thread_id:
