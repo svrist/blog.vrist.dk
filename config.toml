@@ -21,3 +21,4 @@ canonifyurls = true
     muut = "svrist"
     description = "Code, Triathlon, Family"
     cover = "svimstart-crop.png"
+    github_src = "svrist/blog.vrist.dk"
