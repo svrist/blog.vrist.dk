@@ -3,7 +3,8 @@ title: Copenhagen 4:18:4 triathlon
 author: svrist
 
 date: 2010-08-13
-url: /2010/08/13/copenhagen-4184-triathlon/
+aliases: 
+  - /2010/08/13/copenhagen-4184-triathlon/
 dsq_thread_id:
   - 129400878
 

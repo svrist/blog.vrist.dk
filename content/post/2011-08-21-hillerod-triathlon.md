@@ -3,7 +3,8 @@ title: Hillerød triathlon
 author: svrist
 
 date: 2011-08-21
-url: /2011/08/21/hillerod-triathlon/
+aliases: 
+  - /2011/08/21/hillerod-triathlon/
 dsq_thread_id:
   - 392304220
 categories:

@@ -3,7 +3,8 @@ title: My favorite podcasts
 author: svrist
 
 date: 2011-12-14
-url: /2011/12/14/my-favorite-podcasts/
+aliases: 
+  - /2011/12/14/my-favorite-podcasts/
 dsq_thread_id:
   - 504220224
 categories:

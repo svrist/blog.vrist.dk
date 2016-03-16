@@ -3,7 +3,8 @@ title: Reading up on “Dynamic Graph Layout”
 author: svrist
 
 date: 2010-04-15
-url: /2010/04/15/reading-up-on-dynamic-graph-layout/
+aliases: 
+  - /2010/04/15/reading-up-on-dynamic-graph-layout/
 dsq_thread_id:
   - 86412706
 categories:

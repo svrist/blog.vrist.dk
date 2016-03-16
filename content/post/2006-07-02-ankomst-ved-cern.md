@@ -3,7 +3,8 @@ title: Ankomst ved CERN
 author: svrist
 
 date: 2006-07-02
-url: /2006/07/02/ankomst-ved-cern/
+aliases: 
+  - /2006/07/02/ankomst-ved-cern/
 dsq_thread_id:
   - 68433451
 
