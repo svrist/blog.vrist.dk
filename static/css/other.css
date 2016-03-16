@@ -6,7 +6,7 @@
   display: inline-block;
   font-size: .8rem;
   color:#999;
-  padding:2px 7px;
+  padding:1px 7px;
   border:1px solid #eee;
   border-bottom:2px solid #eee;
   margin-right:5px;
@@ -17,5 +17,23 @@
 
 .single .tag:hover {
   color: #333;
+}
+
+.single .share a {
+    display: inline-block;
+/*    border: 1px solid #eee;*/
+    border-radius: 100%;
+    color: #999;
+    padding: 1px 4px;
+    margin-bottom: 3px;
+}
+
+.share a:hover {
+    color: #222;
+}
+
+.src {
+    font-size: .8rem;
+    margin-top: 2px;
 }
 

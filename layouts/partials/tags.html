@@ -1,3 +1,3 @@
-<aside>
-  {{ with .Params.tags }}<div class="section">{{ range . }}<a href="{{ $.Site.BaseURL}}tags/{{ . | urlize }}" class="tag">{{ . }}</a>{{ end }}</div>{{ end }}
+<aside style="border-top: 1px solid #ddd; padding-top: 6px;">
+  {{ with .Params.tags }}<div style="text-align: right;">{{ range . }}<a href="{{ $.Site.BaseURL}}tags/{{ . | urlize }}" class="tag">{{ . }}</a>{{ end }}</div>{{ end }}
 </aside>
