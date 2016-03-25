@@ -37,3 +37,10 @@
     margin-top: 2px;
 }
 
+.right {
+    text-align: right;
+}
+.tagcontainer aside {
+    border-top: 1px solid #ddd; 
+    padding-top: 6px;
+}
