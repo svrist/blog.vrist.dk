@@ -9,9 +9,12 @@ dsq_thread_id:
   - 3532183557
 categories:
   - English
-tags:
   - racerapport
   - triathlon
+tags:
+  - triathlon
+  - hillerødtri
+  - cphtriathlon
 
 ---
 # Intro

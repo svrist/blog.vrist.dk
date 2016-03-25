@@ -1,11 +1,22 @@
 ---
 title: Eclipse setup
 author: svrist
-layout: post
 date: 2008-04-03
-url: /2008/04/03/eclipse-setup/
+aliases: 
+  - /2008/04/03/eclipse-setup/
 dsq_thread_id:
   - 68433617
+categories:
+  - English
+  - Java
+  - Eclipse
+tags:
+  - plugins
+  - maven
+  - pmd
+  - fundbugs
+  - checkstyle
+  - eclemma
 
 ---
 <span class="zemanta-img" style="display:block;float:right;margin:1em;"><a href="http://commons.wikipedia.org/wiki/Image:Wave.svg" target="_blank"><img style="border:medium none;display:block;" src="http://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Wave.svg/202px-Wave.svg.png" alt="Duke, the Java Mascot, in the waving pose." /></a><span style="display:block;margin:1em 0 0;">Image from <a href="http://commons.wikipedia.org/wiki/Image:Wave.svg">Wikipedia</a></span></span>I work with <a title="Eclipse website" href="http://eclipse.org" target="_blank">eclipse</a> all day, so I&#8217;ve spent some time messing around with plugins. Lots and lots of plugins.

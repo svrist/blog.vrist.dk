@@ -9,9 +9,11 @@ dsq_thread_id:
   - 392304220
 categories:
   - English
+  - triathlon
 tags:
   - racerapport
   - triathlon
+  - hillerødtri
 
 ---
 Last year I got bitten by the triathlon bug during [Copenhagen 4:18:4][1]. Since then I started learning the front-crawl, more biking and consistent running. This spring I even joined [KVIK Tri Team][2] here at Amager and that really took my swimming up to a new level.

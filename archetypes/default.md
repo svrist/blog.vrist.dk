@@ -4,6 +4,6 @@ tags = [
 
 ]
 categories = [
-  "english",
+  "English",
 ]
 +++

@@ -9,6 +9,12 @@ dsq_thread_id:
   - 148558153
 categories:
   - English
+  - scala
+  - LaTeX
+tags:
+  - listings
+  - scala
+  - LaTeX
 
 ---
 I&#8217;ve tried to find a listings style definition for scala to use in my LaTeX report.

@@ -9,8 +9,10 @@ dsq_thread_id:
   - 504220224
 categories:
   - English
+  - podcasts
 tags:
-  - podcast
+  - podcasts
+  - techzing
 
 lightBox: True
 
