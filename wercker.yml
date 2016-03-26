@@ -14,7 +14,6 @@ build:
     - arjen/hugo-build:
         version: "HEAD"
         theme: hugo-uno
-        flags: --buildDrafts=true
 deploy:
   steps:
     - script:
