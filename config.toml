@@ -2,6 +2,7 @@ baseurl = "https://blog.vrist.dk"
 languageCode = "da-dk"
 title = "Søren Bjerregaard Vrist"
 canonifyurls = true
+googleAnalytics = "UA-6981204-1"
 
 [indexes]
    category = "categories"
