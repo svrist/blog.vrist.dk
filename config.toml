@@ -13,12 +13,11 @@ canonifyurls = true
    series = "series"
 
 [params]
-    AuthorName = "Søren"
+    author = "Søren Bjerregaard Vrist"
     github = "svrist"
     twitter = "svrist"
     email = "s@vrist.dk"
     linkedin = "svrist"
     muut = "svrist"
     description = "Code, Triathlon, Family"
-    cover = "svimstart-crop.png"
     github_src = "svrist/blog.vrist.dk"
