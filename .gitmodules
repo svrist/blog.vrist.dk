@@ -3,4 +3,4 @@
 	url = https://github.com/SenjinDarashiva/hugo-uno.git
 [submodule "themes/mydetox"]
 	path = themes/mydetox
-	url = git@github.com:svrist/hugo-theme-blueberry-detox.git
+	url = https://github.com/svrist/hugo-theme-blueberry-detox.git
