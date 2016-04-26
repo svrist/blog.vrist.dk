@@ -17,7 +17,7 @@ tags:
   - cphtriathlon
 
 ---
-# Intro
+#### Intro
 
 So, [my last race report][1] is almost 3 years old by now. I&#8217;ve since then raced [Ganløse famile tri][2]  september 9 2012, and [Camilla Pedersen Duathlon][3] October 2013 and lastly Herlev Olympic Tri May 2014.
 
@@ -30,7 +30,7 @@ So, [my last race report][1] is almost 3 years old by now. I&#8217;ve since then
 
 My daughter was born shortly after Hillerød Tri 2011 which of course naturally shifted priorities. I trained on and off for a year following &#8211; 32 km bike commute and swimming and running every now and then. [October 2012 a new triathlon club started in Lyngby][4] and I was ready to get some more consistent access to a swimming pool as well as some socializing: All of the above were great races and I had a blast but I were ready for something more again. 2013 came and went but a bout of the flu kept me from Ganløse Tri&#8217;s &#8220;Tri på Tyren&#8221; and nothing more where scheduled.
 
-# Preparation
+#### Preparation
 
 When 2014 was well under way(Late march) and most exisisting races above sprint distance were sold out (For example Øresund Triathlon, Ironman 70.3 Århus etc) and I didn&#8217;t have the guts for Full Distance Fyn and other &#8220;complete&#8221; distance races I was happy to see a new Triathlon, CPH:Triathlon, 1800m swim, 90km bike and 21,1 km run was being prepared in Kastrup [I decided to signup][5] thereby getting some distant goal to focus the training around.
 
@@ -59,7 +59,7 @@ The long bike training sets left me flustered and demotivated, insecure and quit
 
 Apart from that the intense(for me) running sets left me quite exhausted but also the fastest I&#8217;ve ever been &#8211; for me that doesn&#8217;t mean much &#8211; 5m20s / km for the half-marathon around 1h52 minutes.
 
-# Setup
+#### Setup
 
 As I the previous years have rented a swimming-wet-suit for the season I this year decided to buy one. I try to use our local shops and triatlonsport.dk (and the owner is an extremly nice guy) had these cool Z3R0D wetsuit and I decided on the &#8220;entry&#8221;-level [Atlante][7]. It seems to fit me quite fine and I love that some color has been incorporated into the design.
 
@@ -71,7 +71,7 @@ On the bike front I had some issues getting a new fork (don&#8217;t ask) for my 
 
 I managed a couple of good workouts on the new bike and a bike-fit really hit the spot &#8211; the new bike feels awesome!
 
-# Raceday
+#### Raceday
 
 My parents arrived the day before &#8211; ready to join my family-cheerleading squad. With regards to food etc. I decided on going with a &#8220;i&#8217;m 75% LCHF most of the time &#8211; leading in to the race i&#8217;ll just be MCHF and eat like most people&#8221; instead of any &#8220;carbo-loading&#8221; etc. That being said, to me 5-6 hours of racing doesn&#8217;t really warant any extreme measures.
 
@@ -79,7 +79,7 @@ I took a guest bed in our house for the night to not wake up the rest of the fam
 
 Running a bit late and driving in MASSIVE rain we were both anxious and exited &#8211; with short time to spare &#8211; but we made it. A fast entry to T1 to set up the bike and prepare the transition-bag for easy-access.
 
-## Swim
+#### Swim
 
 _(00:36:03)_
   
@@ -91,13 +91,13 @@ Then it was a short jog towards the start area as the start time was comming clo
 {{% galleryimage file="10531403_313560338805751_479715394391300855_o" caption="Comming out of the water - one of the long water-walks" %}}
 {{< /gallery >}}
 
-## T1
+#### T1
 
 _(00:02:06)_
   
 A short run and then time to leave the wetsuite in the transition bag. I decided before hand to put on socks already in T1 so that took some time. On the other hand, for the first time, I tried using tri-shoes with rubber bands attached  to avoid running in bike-shoes. I had practiced it and it worked fine. As expected one of the elastics needed a bit of help to break and then I was off.
 
-## Bike
+#### Bike
 
 _(2:50:29)_
   
@@ -119,13 +119,13 @@ It worked out somewhat OK, but I was kinda forcing the pace a bit to get back up
 {{% galleryimage file="10288765_313550408806744_9197785798903211870_n" caption="Back on the bike and up-to-speed. Narrow two-way-road led to a bit of congestion" %}}
 {{% galleryimage file="10480562_313567832138335_1111293265445525536_o" caption="Rolling along" %}}
 {{< /gallery >}}
-## T2
+#### T2
 
 (1m42s)
 
 Off the bike, in to the shoes and straight into an aid-station where Rasmus Henning came trucking along with his 1h116m half-marthon almost done. I jumped out of the way and started drinking coke. The humidity and the temperature was opressing but I tried starting out &#8220;on pace&#8221;.
 
-## Run
+#### Run
 
 (1h54m18s)
 
@@ -135,7 +135,7 @@ At the finishing lap I was spent &#8211; I fought and fought to get back running
   
 At the finish-line I passed through and couldn&#8217;t see my family &#8211; they got lost on the way to portal and arrived a couple of minutes after me  <img src="http://blog.vrist.dk/newwp/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />The nausea came rolling along (and I kinda expected it as I had felt it on my brick sessions in training too) and I just had to sit in the shade, sip water and stare emptily out in the air.
 
-## After
+#### After
 
 As I recovered a bit I was ready to leave the athletes area and went to collect my bike and load up the car. Then it was time to go fetch ice-cream &#8211; especially my daughter was looking forward to that. All in all she had been a bit bored but on the other hand had enjoyed being out with her farmor and farfar. After icecream and water it was time to head towards Virum and a great hot day was done.
 

@@ -1,3 +1,0 @@
-<aside >
-  {{ with .Params.tags }}<div>{{ range . }}<a href="{{ $.Site.BaseURL}}tags/{{ . | urlize }}" class="tag">{{ . }}</a>{{ end }}</div>{{ end }}
-</aside>
