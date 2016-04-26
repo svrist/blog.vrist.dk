@@ -16,9 +16,45 @@ googleAnalytics = "UA-6981204-1"
 [params]
     author = "Søren Bjerregaard Vrist"
     github = "svrist"
-    twitter = "svrist"
+    twitter_name = "svrist"
     email = "s@vrist.dk"
     linkedin = "svrist"
     muut = "svrist"
     description = "Code, Triathlon, Family"
     github_src = "svrist/blog.vrist.dk"
+    favicon = "favs"
+    google_analytics = "UA-6981204-1"
+
+[[menu.social]]
+    name = "Twitter"
+    url = "https://twitter.com/svrist"
+    pre = "fa-twitter"
+
+[[menu.social]]
+    name = "Facebook"
+    url = "https://www.facebook.com/svrist"
+    pre = "fa-facebook"
+
+[[menu.social]]
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/in/svrist"
+    pre = "fa-linkedin"
+
+[[menu.social]]
+    name = "Email"
+    url = "mailto:svrist+blogspam@gmail.com"
+    pre = "fa-envelope"
+
+[[menu.main]]
+    name = "About me"
+    pre = "<i class='fa fa-heart'></i>"
+    weight = -110
+    identifier = "about"
+    url = "/about/"
+
+[[menu.main]]
+    name = "My DIKU"
+    pre = "<i class='fa fa-laptop'></i>"
+    weight = 10
+    identifier = "diku"
+    url = "/diku/"
