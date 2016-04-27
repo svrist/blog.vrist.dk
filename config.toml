@@ -45,6 +45,11 @@ googleAnalytics = "UA-6981204-1"
     url = "mailto:svrist+blogspam@gmail.com"
     pre = "fa-envelope"
 
+[[menu.social]]
+    name = "Github"
+    url = "https://github.com/svrist"
+    pre = "fa-github"
+
 [[menu.main]]
     name = "About me"
     pre = "<i class='fa fa-heart'></i>"
