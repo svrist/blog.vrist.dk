@@ -3,7 +3,7 @@ date = "2017-02-07"
 title = "Running Python with Psycopg2 on AWS Lambda"
 categories = ["English", "Tech"]
 tags = ["aws", "rds", "lambda", "psycopg2", "sqlalchemy", "python"]
-draft = true
+draft = false
 
 +++
 

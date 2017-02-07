@@ -3,7 +3,7 @@ date = "2017-02-08"
 title = "Configuring VPC and RDS via Cloudformation for AWS Lambda"
 categories = ["English", "Tech"]
 tags = ["aws", "rds", "lambda", "cloudformation", "sqlalchemy", "vpc"]
-draft = true
+draft = false
 
 +++
 
